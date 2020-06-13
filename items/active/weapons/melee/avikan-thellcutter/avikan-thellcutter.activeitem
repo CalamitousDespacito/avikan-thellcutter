@@ -3,7 +3,7 @@
   "price" : 900,
   "level" : 6,
   "maxStack" : 1,
-  "rarity" : "essential",
+  "rarity" : "legendary",
   "description" : "An energy weapon used to deter Theleans.",
   "shortdescription" : "Thellcutter",
   "tooltipKind" : "sword",
